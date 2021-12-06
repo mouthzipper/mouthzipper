@@ -12,3 +12,7 @@
 
 
 ![Jerome's GitHub stats](https://github-readme-stats.vercel.app/api?username=mouthzipper)
+
+### 🏆 Github Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mouthzipper&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
