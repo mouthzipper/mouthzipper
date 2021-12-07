@@ -10,7 +10,7 @@ ___
     <img
       width="300"
       align="right"
-      src="https://api.daily.dev/devcards/0e357cffdc3e4ec195ca1cabbc126c79.png?r=tyi" alt="Jerome Ramos's Dev Card"
+      src="https://raw.githubusercontent.com/mouthzipper/mouthzipper/devcard/devcard.svg" alt="Jerome Ramos's Dev Card"
     />
   </a>
 </div>
