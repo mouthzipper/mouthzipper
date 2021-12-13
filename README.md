@@ -16,9 +16,6 @@ ___
   </a>
 </div>
 
-### I am Jerome Ramos
-___
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mouthzipper)](https://git.io/streak-stats)
 
