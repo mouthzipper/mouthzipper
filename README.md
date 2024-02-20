@@ -3,10 +3,5 @@
 ___
 <div align="center">
 
-  <a href="https://api.daily.dev/get?r=mouthzipper" target="_blank">
-    <img
-      width="300"
-      src="https://raw.githubusercontent.com/mouthzipper/mouthzipper/devcard/devcard.svg" alt="Jerome Ramos's Dev Card"
-    />
-  </a>
+ <a href="https://app.daily.dev/mouthzipper"><img src="https://api.daily.dev/devcards/v2/AUYAW-Uh1.png?r=rmw" width="356" alt="Jerome Ramos's Dev Card"/></a>
 </div>
